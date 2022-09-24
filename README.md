@@ -1,4 +1,4 @@
-# eyemovement
+# MIT xPro Eye Exercise
 MIT xPro eye movement assignment is an interactive animation that creates two eyes that follow your mouse cursor around the browser by utilizing CSS and javascript.
 
 
