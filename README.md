@@ -5,6 +5,6 @@ MIT xPro eye movement assignment is an interactive animation that creates two ey
 ## Move your cursor around inside the browser window to see the eyes move.
 
 <img src="eyes_ex.png" width="300px">
-This styled animation could be updated by adding more eyes, changing the eye color or allowing the eyes to go crosseyed when the mouse cursor passes in between them.
+This styled animation could be updated by adding more eyes, changing the eye color or allowing the eyes to go crosseyed when the mouse cursor passes in between them for future development.
 
 Copyright 2022
